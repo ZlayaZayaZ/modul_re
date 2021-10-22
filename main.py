@@ -42,7 +42,7 @@ for cl in contacts_list:
         else:
             contacts_list2.append([list_full_name[0],
                                       list_full_name[1],
-                                      cl[2],
+                                      '',
                                       cl[3],
                                       cl[4],
                                       phone,
